@@ -1,0 +1,5 @@
+This is a fine tuned model of nous-hermes2 for making a chatbot that replies for finance related queries only.
+this is a kind of prototype so custom data is very small.
+The data is in the format of ###instructions: and ###response:
+deployed on gradio.ai workspace
+i have revoked the keys for now.
